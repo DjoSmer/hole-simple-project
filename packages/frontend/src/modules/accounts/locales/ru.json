@@ -1,0 +1,18 @@
+{
+  "signInButton": "Войти",
+  "signUpButton": "Регистрация",
+  "createAccountButton": "Поехали",
+
+  "fullNameInput": "Имя и Фамилию",
+  "firstNameInput": "Имя",
+  "lastNameInput": "Фамилия",
+  "passwordInput": "Пароль",
+  "passwordConfirmInput": "Подтвердить пароль",
+  "countryInput": "Страна",
+
+  "getStartedNowText": "Приветствую! Как дела?",
+  "acceptSendMeNewsText": "Я хотел бы получать новости.",
+  "legalText": "Создавая учетную запись, я соглашаюсь с <2>Условиями использования</2> и <6>Политикой конфиденциальности</6>.",
+  "validatePageHeadingText": "Обработка...",
+  "validatePageMessageText": "Пожалуйста, проверка данных!"
+}

@@ -1,0 +1,15 @@
+{
+  "emailConfirmationText": "E-Mail Подтверждение",
+  "confirmEmailButton": "Подтвердить",
+  "sendCodeAgainButton": "Отправьте код еще раз",
+  "codeInput": "Код",
+  "sendCodeToEmailSuccessText": "E-Mail успешно отправлено!",
+  "sendCodeToEmailErrorText": "E-Mail отправка не удалась",
+  "confirmEmailSuccessText": "E-Mail успешно подтвержден!",
+  "confirmEmailFailedText": "E-Mail подтвердить не удалось",
+  "confirmEmailInvalidText": "E-Mail не получилось подтвердить",
+  "successPageHeadingText": "E-Mail все получилось!",
+  "successPageMessageText": "Hole приветствует вас",
+  "warningPageHeadingText": "Внимание!",
+  "warningPageMessageText": "Что-то не так..."
+}

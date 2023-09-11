@@ -1,0 +1,15 @@
+{
+  "emailConfirmationText": "E-Mail Confirmation",
+  "confirmEmailButton": "Confirm",
+  "sendCodeAgainButton": "Send the code again",
+  "codeInput": "Code",
+  "sendCodeToEmailSuccessText": "E-Mail sent successfully!",
+  "sendCodeToEmailErrorText": "E-Mail sent failed",
+  "confirmEmailSuccessText": "E-Mail confirm successfully!",
+  "confirmEmailFailedText": "E-Mail confirm failed",
+  "confirmEmailInvalidText": "E-Mail confirm invalid",
+  "successPageHeadingText": "E-Mail successfully confirmed!",
+  "successPageMessageText": "Hole is being prepared...",
+  "warningPageHeadingText": "Attention",
+  "warningPageMessageText": "Something with wrong"
+}

@@ -1,0 +1,18 @@
+{
+  "signInButton": "Sign In",
+  "signUpButton": "Sign Up",
+  "createAccountButton": "Start now!",
+
+  "fullNameInput": "Full Name",
+  "firstNameInput": "First Name",
+  "lastNameInput": "Last Name",
+  "passwordInput": "Password",
+  "passwordConfirmInput": "Password confirm",
+  "countryInput": "Country",
+
+  "getStartedNowText": "Welcome! How are you?",
+  "acceptSendMeNewsText": "I would like to receive news.",
+  "legalText": "By creating an account, I agree to the <2>Terms of Use</2> and <6>Privacy Policy</6>.",
+  "validatePageHeadingText": "Checking...",
+  "validatePageMessageText": "Please, checking a data"
+}

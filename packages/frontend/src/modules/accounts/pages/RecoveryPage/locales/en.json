@@ -1,0 +1,6 @@
+{
+  "recoveryHeadingText": "Reset Password",
+  "requestResetPasswordButton": "Now reset your password",
+  "successPageHeadingText": "Your password has been reset.",
+  "successPageMessageText": "We have reset your password. You will receive an email to assign a new password. Follow the link in the email and then log in with your new password as usual."
+}
